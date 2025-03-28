@@ -1,0 +1,5 @@
+c:\Users\johnn\OneDrive\codingprojects\pokeapi\c#hwapi\obj\Debug\net8.0\c#hwapi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\johnn\OneDrive\codingprojects\pokeapi\c#hwapi\obj\Debug\net8.0\c#hwapi.AssemblyInfoInputs.cache
+c:\Users\johnn\OneDrive\codingprojects\pokeapi\c#hwapi\obj\Debug\net8.0\c#hwapi.AssemblyInfo.cs
+c:\Users\johnn\OneDrive\codingprojects\pokeapi\c#hwapi\obj\Debug\net8.0\c#hwapi.csproj.CoreCompileInputs.cache
+c:\Users\johnn\OneDrive\codingprojects\pokeapi\c#hwapi\obj\Debug\net8.0\c#hwapi.MvcApplicationPartsAssemblyInfo.cache
